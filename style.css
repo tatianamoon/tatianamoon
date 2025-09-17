@@ -157,7 +157,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/Fon_AI2.jpg") no-repeat center;
+    background: url("Fon_AI2.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -646,4 +646,5 @@ footer span a:hover{
 .home{
     background: url("images/TM.jpg") no-repeat top;
 }
+
 }
